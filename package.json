@@ -1,0 +1,25 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/otafu/12-SQL-EMPLOYEE-TRACKER-RE-SUBMIT.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/otafu/12-SQL-EMPLOYEE-TRACKER-RE-SUBMIT/issues"
+    },
+    "homepage": "https://github.com/otafu/12-SQL-EMPLOYEE-TRACKER-RE-SUBMIT#readme",
+    "dependencies": {
+        "inquirer": "^7.0.0",
+        "mysql2": "^2.3.3"
+    }
+}
